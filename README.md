@@ -19,7 +19,7 @@ flask-api-test/
 Getting Started:
 ----------------
 1. Clone the Repository:
-   git clone https://github.com/YOUR_USERNAME/flask-api-test.git
+   git clone https://github.com/Amogh-Kapse/flask-api-test.git
    cd flask-api-test
 
 2. (Optional) Create Virtual Environment:
